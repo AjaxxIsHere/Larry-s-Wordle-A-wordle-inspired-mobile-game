@@ -3,6 +3,11 @@
 This is a project of mine built using flutter, riverpod, and AWS DynamoDB, Lambda, Gateway as backend.
 The project is a clone of the popular game Wordle, where players guess a five-letter word within six attempts.
 It features a user-friendly interface, real-time updates, and a scoring system that tracks the number of attempts taken to guess the word correctly!
+
+Download the app from HERE: [Larry's Wordle](https://drive.google.com/uc?export=download&id=1dq8AhOxZu4l5by8WaAXgb9OZuVb4mSd_)
+
+Coming to Google Play Store soon!
+
 ## Features
 
 - **Game Logic**: Players can guess a five-letter word, with feedback provided for each guess.
@@ -11,6 +16,8 @@ It features a user-friendly interface, real-time updates, and a scoring system t
 - **Responsive Design**: The app is designed to work on both mobile and web platforms.
 - **State Management**: Utilizes Riverpod for state management, ensuring a reactive and efficient UI.
 - **Dark Mode**: The app supports dark mode for better user experience.
+- **Local notifications**: Players receive notifications for daily challenges and reminders to play.
+- **AWS Integration**: Uses AWS services for backend functionality, including DynamoDB for word storage, Lambda for serverless functions (word picking), and API Gateway for API management.
 
 ## Upcoming Features
 - **User Authentication**: Sign up and log in using AWS Cognito. (to be implemented!)
@@ -46,5 +53,6 @@ To run this project locally, follow these steps:
 <img src="Screenshots/Screenshot_20250615-121219.png" width="250"/>
 <img src="Screenshots/Screenshot_20250615-121233.png" width="250"/>
 <img src="Screenshots/Screenshot_20250615-121300.png" width="250"/>
+
 
 
