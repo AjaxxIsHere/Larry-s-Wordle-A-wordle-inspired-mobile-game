@@ -39,12 +39,12 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Homepage Screenshot](Screenshots/Screenshot_20250615-121015.png)
-![Tutorial Screenshot](Screenshots/Screenshot_20250615-121128.png)
-![Game Screenshot](Screenshots/Screenshot_20250615-121202.png)
-![Game Screenshot 2](Screenshots/Screenshot_20250615-121204.png)
-![Game Screenshot 3](Screenshots/Screenshot_20250615-121219.png)
-![Game Screenshot 4](Screenshots/Screenshot_20250615-121233.png)
-![Easter egg Screenshot ](Screenshots/Screenshot_20250615-121300.png)
+<img src="Screenshots/Screenshot_20250615-121015.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121128.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121202.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121204.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121219.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121233.png" width="250"/>
+<img src="Screenshots/Screenshot_20250615-121300.png" width="250"/>
 
 
